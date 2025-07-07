@@ -21,7 +21,7 @@ export function About() {
             <div className="relative aspect-square w-full max-w-sm mx-auto rounded-lg overflow-hidden shadow-2xl group">
                <div className="absolute inset-0 bg-primary/20 z-10"></div>
                 <Image
-                  src="https://placehold.co/600x600.png"
+                  src="/profile.jpg"
                   alt="Muiz Adesope"
                   fill
                   className="object-cover group-hover:scale-105 transition-transform duration-500"

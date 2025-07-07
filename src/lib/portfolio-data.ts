@@ -7,7 +7,7 @@ export const personalData = {
   phone: '+2349030049952',
   location: 'Lagos, Nigeria',
   portfolioUrl: 'https://muiz-dev.vercel.app',
-  resumeUrl: '/Muiz_Adesope_Resume.pdf',
+  resumeUrl: 'https://pdanalqroypjmkidfzhd.supabase.co/storage/v1/object/public/ticket-attachments//Muiz_Adesope_Resume.pdf',
   linkedin: 'https://linkedin.com/in/muiz-dev',
   github: 'https://github.com/Muiz-dev',
   instagram: 'https://instagram.com/muiz_dev',
