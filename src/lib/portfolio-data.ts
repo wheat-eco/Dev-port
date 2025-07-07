@@ -179,7 +179,7 @@ export const projects = [
     title: 'Developer Portfolio Website',
     description: 'A personal portfolio to showcase skills, projects, and contact information, designed to be fast-loading and animated.',
     stack: ['Next.js', 'Tailwind CSS', 'TypeScript', 'Vercel'],
-    imageUrl: '/Dev.png',
+    imageUrl: '/icons/123455.png',
     imageHint: 'portfolio design',
     liveUrl: 'https://muiz-dev.vercel.app/',
     githubUrl: 'https://github.com/wheat-eco/Dev-port',
