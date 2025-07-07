@@ -181,8 +181,8 @@ export const projects = [
     stack: ['Next.js', 'Tailwind CSS', 'TypeScript', 'Vercel'],
     imageUrl: '/port.png',
     imageHint: 'portfolio design',
-    liveUrl: 'https://github.com/muiz-dev',
-    githubUrl: 'https://github.com/muiz-dev',
+    liveUrl: 'https://muiz-dev.vercel.app/',
+    githubUrl: 'https://github.com/wheat-eco/Dev-port',
   },
   {
     title: 'Student Result Management System',
